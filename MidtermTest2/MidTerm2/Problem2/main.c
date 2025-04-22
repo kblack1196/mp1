@@ -6,7 +6,10 @@ int SS(int mp, int range)
 		printf("주인공 : 너는 점수를 획득했나?");
 		return 0;
 	}
-return 0;
+	else
+	{
+		return 0;
+	}
 }
 int main()
 {
