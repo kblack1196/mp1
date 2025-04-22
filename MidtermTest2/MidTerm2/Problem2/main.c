@@ -1,11 +1,12 @@
 #include <stdio.h>
 int SS(int mp, int range)
 {
-	if (mp >= 50, range > 10)
+	if (mp >= 50 && range > 10)
 	{
-		printf("ÁÖÀÎ°ø : ³Ê´Â Á¡¼ö¸¦ È¹µæÇß³ª?");
+		printf("ì£¼ì¸ê³µ : ë„ˆëŠ” ì ìˆ˜ë¥¼ íšë“í–ˆë‚˜?");
 		return 0;
 	}
+return 0;
 }
 int main()
 {
