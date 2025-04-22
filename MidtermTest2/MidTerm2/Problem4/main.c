@@ -20,13 +20,13 @@ int main()
 	input = _getch();
 	if (input == 'h')
 	{
-		gotoxy(14, 0);
+		gotoxy(16, 5);
 		printf("\033[47m\033[30mHappy\033[0m");
 	}
 	input = _getch();
 	if (input == 'h')
 	{
-		gotoxy(14, 10);
+		gotoxy(14, 9);
 		printf("\033[47m\033[30mBirthday\033[0m");
 	}
 	return 0;
